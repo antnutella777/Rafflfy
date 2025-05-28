@@ -54,3 +54,8 @@ button:hover {
   font-size: 0.9em;
   color: #777;
 }
+.devName{
+  text-align: center;
+  color: #777;
+  margin-top: 200px;
+}
